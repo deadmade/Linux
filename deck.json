@@ -1,0 +1,447 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "988ca834-c592-11ee-8004-f2a0fc844426",
+    "deck_config_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 150
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 1500
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Linux",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Hilfe was man alles angeben kann",
+                "man<br>z.B. für ls"
+            ],
+            "guid": "w(BD*j1K)9",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: zeigt alle Befehle",
+                "apropos"
+            ],
+            "guid": "I4#:E4>:b/",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Zeigt versteckte Ordner",
+                "ls -la"
+            ],
+            "guid": "d6T.5Aj#JX",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Zeigt alle Ordner im Verzeichnis",
+                "ls"
+            ],
+            "guid": "qG>3Kf@=._",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Ein Ordner zurück",
+                "cd"
+            ],
+            "guid": "sko</}=^#X",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Hauptverzeichnis",
+                "cd ~"
+            ],
+            "guid": "A_!@p6;i^w",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: neuen Order erstellen",
+                "mkdir"
+            ],
+            "guid": "_b`rQe|S~",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Ordner löschen",
+                "rmkdir"
+            ],
+            "guid": "m#G*1elP@|",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Datei erstellen",
+                "touch"
+            ],
+            "guid": "mEcL]ovTD-",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Datei Kopieren",
+                "cp"
+            ],
+            "guid": "Mf^~pxZ6Vw",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Ordner Operationen",
+                "-r&nbsp;"
+            ],
+            "guid": "A|^G+fT)Ya",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Datei Verschieben",
+                "mv"
+            ],
+            "guid": "O5rwO(!5?u",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Datei löschen",
+                "rm"
+            ],
+            "guid": "p11Dk*drMF",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Welches Verzeichnis aktuell?",
+                "pwd"
+            ],
+            "guid": "xS6Ol0e71t",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Datei Rechte ändern",
+                "chmod&nbsp;<br>+ -&gt; fügt Rechte hinzu<br>- -&gt; nimmt Rechte weg<br><br>r(4) -&gt; read, w(2)-&gt; write, x(1) -&gt; execute<br>u -&gt; Ich, g -&gt; Gruppe, o -&gt; Andere<br>000 -&gt; alle Rechte entzogen"
+            ],
+            "guid": "hCF_;SJh!<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Verknüpfung auf Datei erstellen",
+                "ln"
+            ],
+            "guid": "ngs|z|*DEn",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Werde zum super user",
+                "sudo su"
+            ],
+            "guid": "Jsr:$pEmq)",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Aus Super User gehen",
+                "exit"
+            ],
+            "guid": "K)BJ-~_R(:",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Benuter für Datei ändern",
+                "chown"
+            ],
+            "guid": "Pe)P)@URq`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Gruppe der Datei ändern",
+                "chgrp"
+            ],
+            "guid": "mM8@ORq6(.",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Aktueller User",
+                "whoami"
+            ],
+            "guid": "v@h7p%e?E-",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Wer alles im System ist",
+                "who"
+            ],
+            "guid": "NbgGl=ZmAa",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Was man im System macht",
+                "w"
+            ],
+            "guid": "B}`]Io5@]:",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Laufende Programme",
+                "which"
+            ],
+            "guid": "u{E;1zJyoh",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Parameter Ausgeben",
+                "echo"
+            ],
+            "guid": "g,NEiR8E.|",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Datei ausführen",
+                "bash"
+            ],
+            "guid": "x%2[hSL~wd",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Text editor öffnen",
+                "vi&nbsp;"
+            ],
+            "guid": "eT[00D)#iy",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: VI",
+                "i = Datei Editieren (mit Escape kommt man wieder raus<br>: wq verlässt man den Editor und schreibt"
+            ],
+            "guid": "Qd5,=@+:sE",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: Inhalt einer Datei anzeigen",
+                "more"
+            ],
+            "guid": "bWQ/kpDv2~",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Befehle: eine Seite zum scrollen",
+                "less"
+            ],
+            "guid": "w-jqgyL;|w",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
