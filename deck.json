@@ -144,8 +144,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Hilfe was man alles angeben kann",
-                "man<br>z.B. für ls"
+                "Befehle: Hilfe was man alles angeben kann&nbsp;",
+                "man<br>z.B. für ls&nbsp;"
             ],
             "guid": "w(BD*j1K)9",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -154,7 +154,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: zeigt alle Befehle",
+                "Befehle: zeigt alle Befehle&nbsp;",
                 "apropos"
             ],
             "guid": "I4#:E4>:b/",
@@ -164,7 +164,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Zeigt versteckte Ordner",
+                "Befehle: Zeigt versteckte Ordner&nbsp;",
                 "ls -la"
             ],
             "guid": "d6T.5Aj#JX",
@@ -174,7 +174,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Zeigt alle Ordner im Verzeichnis",
+                "Befehle: Zeigt alle Ordner im Verzeichnis&nbsp;",
                 "ls"
             ],
             "guid": "qG>3Kf@=._",
@@ -184,8 +184,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Ein Ordner zurück",
-                "cd"
+                "Befehle: Ein Ordner zurück&nbsp;",
+                "cd&nbsp;"
             ],
             "guid": "sko</}=^#X",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -194,7 +194,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Hauptverzeichnis",
+                "Befehle: Hauptverzeichnis&nbsp;",
                 "cd ~"
             ],
             "guid": "A_!@p6;i^w",
@@ -204,7 +204,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: neuen Order erstellen",
+                "Befehle: neuen Order erstellen&nbsp;",
                 "mkdir"
             ],
             "guid": "_b`rQe|S~",
@@ -214,7 +214,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Ordner löschen",
+                "Befehle: Ordner löschen&nbsp;",
                 "rmkdir"
             ],
             "guid": "m#G*1elP@|",
@@ -224,7 +224,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Datei erstellen",
+                "Befehle: Datei erstellen&nbsp;",
                 "touch"
             ],
             "guid": "mEcL]ovTD-",
@@ -234,7 +234,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Datei Kopieren",
+                "Befehle: Datei Kopieren&nbsp;",
                 "cp"
             ],
             "guid": "Mf^~pxZ6Vw",
@@ -244,7 +244,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Ordner Operationen",
+                "Befehle: Ordner Operationen&nbsp;",
                 "-r&nbsp;"
             ],
             "guid": "A|^G+fT)Ya",
@@ -254,7 +254,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Datei Verschieben",
+                "Befehle: Datei Verschieben&nbsp;",
                 "mv"
             ],
             "guid": "O5rwO(!5?u",
@@ -264,7 +264,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Datei löschen",
+                "Befehle: Datei löschen&nbsp;",
                 "rm"
             ],
             "guid": "p11Dk*drMF",
@@ -274,7 +274,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Welches Verzeichnis aktuell?",
+                "Befehle: Welches Verzeichnis aktuell?&nbsp;",
                 "pwd"
             ],
             "guid": "xS6Ol0e71t",
@@ -284,8 +284,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Datei Rechte ändern",
-                "chmod&nbsp;<br>+ -&gt; fügt Rechte hinzu<br>- -&gt; nimmt Rechte weg<br><br>r(4) -&gt; read, w(2)-&gt; write, x(1) -&gt; execute<br>u -&gt; Ich, g -&gt; Gruppe, o -&gt; Andere<br>000 -&gt; alle Rechte entzogen"
+                "Befehle: Datei Rechte ändern&nbsp;",
+                "chmod&nbsp;<br>+ -&gt; fügt Rechte hinzu<br>- -&gt; nimmt Rechte weg<br><br>r(4) -&gt; read, w(2)-&gt; write, x(1) -&gt; execute<br>u -&gt; Ich, g -&gt; Gruppe, o -&gt; Andere<br>000 -&gt; alle Rechte entzogen&nbsp;"
             ],
             "guid": "hCF_;SJh!<",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -294,7 +294,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Verknüpfung auf Datei erstellen",
+                "Befehle: Verknüpfung auf Datei erstellen&nbsp;",
                 "ln"
             ],
             "guid": "ngs|z|*DEn",
@@ -304,7 +304,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Werde zum super user",
+                "Befehle: Werde zum super User&nbsp;",
                 "sudo su"
             ],
             "guid": "Jsr:$pEmq)",
@@ -314,8 +314,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Aus Super User gehen",
-                "exit"
+                "Befehle: Aus Super User gehen&nbsp;",
+                "exit&nbsp;"
             ],
             "guid": "K)BJ-~_R(:",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -324,7 +324,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Benuter für Datei ändern",
+                "Befehle: Benutzer für Datei ändern&nbsp;",
                 "chown"
             ],
             "guid": "Pe)P)@URq`",
@@ -334,8 +334,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Gruppe der Datei ändern",
-                "chgrp"
+                "Befehle: Gruppe der Datei ändern&nbsp;",
+                "chgrp&nbsp;"
             ],
             "guid": "mM8@ORq6(.",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -344,7 +344,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Aktueller User",
+                "Befehle: Aktueller User&nbsp;",
                 "whoami"
             ],
             "guid": "v@h7p%e?E-",
@@ -354,7 +354,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Wer alles im System ist",
+                "Befehle: Wer alles im System ist&nbsp;",
                 "who"
             ],
             "guid": "NbgGl=ZmAa",
@@ -364,7 +364,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Was man im System macht",
+                "Befehle: Was man im System macht&nbsp;",
                 "w"
             ],
             "guid": "B}`]Io5@]:",
@@ -374,7 +374,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Laufende Programme",
+                "Befehle: Laufende Programme&nbsp;",
                 "which"
             ],
             "guid": "u{E;1zJyoh",
@@ -384,7 +384,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Parameter Ausgeben",
+                "Befehle: Parameter Ausgeben&nbsp;",
                 "echo"
             ],
             "guid": "g,NEiR8E.|",
@@ -394,7 +394,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Datei ausführen",
+                "Befehle: Datei ausführen&nbsp;",
                 "bash"
             ],
             "guid": "x%2[hSL~wd",
@@ -404,7 +404,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Text editor öffnen",
+                "Befehle: Text editor öffnen&nbsp;",
                 "vi&nbsp;"
             ],
             "guid": "eT[00D)#iy",
@@ -414,8 +414,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: VI",
-                "i = Datei Editieren (mit Escape kommt man wieder raus<br>: wq verlässt man den Editor und schreibt"
+                "Befehle: VI&nbsp;",
+                "i = Datei Editieren (mit Escape kommt man wieder raus<br>: wq verlässt man den Editor und schreibt&nbsp;"
             ],
             "guid": "Qd5,=@+:sE",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -424,7 +424,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: Inhalt einer Datei anzeigen",
+                "Befehle: Inhalt einer Datei anzeigen&nbsp;",
                 "more"
             ],
             "guid": "bWQ/kpDv2~",
@@ -434,7 +434,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Befehle: eine Seite zum scrollen",
+                "Befehle: eine Seite zum scrollen&nbsp;",
                 "less"
             ],
             "guid": "w-jqgyL;|w",
